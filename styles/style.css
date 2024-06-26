@@ -13,3 +13,37 @@ div {
     #eliminar {
         background-color: black;
     }
+
+    * {
+        font-size: 1.2rem;
+      }
+      
+      /*Agrega los selectores aquí */
+      .container li{
+        background-color: blue;
+        color: aliceblue;
+      }
+      /*Agrega los selectores aquí */
+
+      * {
+        font-size: 1.2rem;
+      }
+      
+      /*Agrega los selectores aquí */
+      div>p{
+        color: brown;
+      }
+      /*Agrega los selectores aquí */
+
+      /*Agrega los selectores aquí */
+div+p{
+    color: aqua;
+  }
+  /*Agrega los selectores aquí */
+
+  /*Agrega los selectores aquí */
+div~p{
+    color: blue;
+  }
+  /*Agrega los selectores aquí */
+  
